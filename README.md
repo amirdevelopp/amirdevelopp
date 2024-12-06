@@ -1,3 +1,5 @@
+![Project Demo]([https://media.giphy.com/media/YOUR_GIF_URL_HERE/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFjZmpzdGU4ODNjMzJtMzFmOHFrd2FybW13YjNrNHFiOHczN2JrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp))
+
 # Hi there, I'm Amir! 👋
 
 I'm a **Python Developer** with a passion for **web scraping**, **bot development**, and **machine learning**. I love turning ideas into reality with code and contributing to open-source projects. 🚀
