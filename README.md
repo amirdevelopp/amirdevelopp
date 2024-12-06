@@ -1,39 +1,38 @@
-# Hi there, I'm Amir! 👋
+# سلام، من امیر هستم! 👋
 
-I'm a **Python Developer** with a passion for **web scraping**, **bot development**, and **machine learning**. I love turning ideas into reality with code and contributing to open-source projects. 🚀
+من یک **برنامه‌نویس Python** با علاقه به **وب‌اسکرپینگ**، **توسعه ربات** و **یادگیری ماشین** هستم. عاشق اینم که ایده‌ها رو با کد تبدیل به واقعیت کنم و در پروژه‌های **open-source** مشارکت کنم. 🚀
 
-## 🔧 Technologies & Tools I use:
+## 🔧 تکنولوژی‌ها و ابزارهایی که استفاده می‌کنم:
 
-- **Programming Languages**: Python, JavaScript
-- **Web Development**: Django, Flask, HTML, CSS, JavaScript
-- **Data Science & Machine Learning**: PyTorch, Scikit-learn, NumPy, Pandas
-- **Web Scraping**: BeautifulSoup, Scrapy
-- **Tools & Platforms**: GitHub, Docker, Postman, VS Code, Jupyter
+- **زبان‌های برنامه‌نویسی**: Python، JavaScript
+- **توسعه وب**: Django، Flask، HTML، CSS، JavaScript
+- **علم داده و یادگیری ماشین**: PyTorch، Scikit-learn، NumPy، Pandas
+- **وب‌اسکرپینگ**: BeautifulSoup، Scrapy
+- **ابزارها و پلتفرم‌ها**: GitHub، Docker، Postman، VS Code، Jupyter
 
-## 🚀 What I'm working on:
-- Developing a **Telegram bot** for automating tasks
-- Building a **web scraper** for extracting e-commerce data
-- Working on **Machine Learning** models for data analysis and predictions
+## 🚀 در حال حاضر روی چه چیزهایی کار می‌کنم:
+- توسعه **ربات تلگرام** برای اتوماسیون کارهای روزانه
+- ساخت **وب‌اسکرپر** برای استخراج داده‌های محصولات از سایت‌ها
+- کار روی مدل‌های **یادگیری ماشین** برای تحلیل داده‌ها و پیش‌بینی‌ها
 
-## 🌱 I’m currently learning:
-- Advanced **Machine Learning** algorithms
-- **Django** and its ecosystems
-- Web development frameworks and libraries in **JavaScript** (React, Node.js)
+## 🌱 در حال یادگیری:
+- الگوریتم‌های پیشرفته **یادگیری ماشین**
+- **Django** و اکوسیستم‌های آن
+- فریم‌ورک‌ها و کتابخانه‌های وب‌سایت در **JavaScript** (React، Node.js)
 
-## 🔗 Connect with me:
+## 🔗 ارتباط با من:
 
 - [LinkedIn](https://www.linkedin.com/in/amirdevelopp) | [Twitter](https://twitter.com/amirdevelopp) | [Instagram](https://instagram.com/amirdevelopp)
 
-## 🔥 Featured Projects:
-- **[Telegram Bot](https://github.com/amirdevelopp/telegram-bot)**: A Telegram bot built with Python that automates daily tasks.
-- **[Web Scraper](https://github.com/amirdevelopp/web-scraper)**: A Python-based web scraper for collecting product data from websites.
-- **[Machine Learning Project](https://github.com/amirdevelopp/machine-learning-project)**: A data analysis project using Scikit-learn and PyTorch to predict stock market trends.
+## 🔥 پروژه‌های برجسته:
+- **[ربات تلگرام](https://github.com/amirdevelopp/telegram-bot)**: ربات تلگرامی ساخته شده با Python که کارهای روزانه را اتوماتیک می‌کند.
+- **[وب‌اسکرپر](https://github.com/amirdevelopp/web-scraper)**: وب‌اسکرپری با Python برای جمع‌آوری داده‌های محصولات از سایت‌ها.
+- **[پروژه یادگیری ماشین](https://github.com/amirdevelopp/machine-learning-project)**: پروژه تحلیل داده با استفاده از Scikit-learn و PyTorch برای پیش‌بینی روند بازار بورس.
 
-## 📈 GitHub Stats:
+## 📈 آمار GitHub من:
 
 ![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirdevelopp&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
 
 ---
 
-⭐ **I’m always looking to learn and collaborate with fellow developers!**
-
+⭐ **من همیشه مشتاق یادگیری و همکاری با توسعه‌دهندگان دیگر هستم!**
