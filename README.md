@@ -1,4 +1,7 @@
-![Project Demo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb28xNTc1M3N4dWwwMTRrZnNwbHByODB3Y2VtendoODVvbmdqd283NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb28xNTc1M3N4dWwwMTRrZnNwbHByODB3Y2VtendoODVvbmdqd283NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Project Demo" />
+</div>
 
 # Hi there, I'm Amir! 👋
 
