@@ -1,4 +1,4 @@
-![Project Demo]([https://media.giphy.com/media/YOUR_GIF_URL_HERE/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFjZmpzdGU4ODNjMzJtMzFmOHFrd2FybW13YjNrNHFiOHczN2JrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp))
+![GIF Demo](https://media.giphy.com/media/UNIQUE_ID/giphy.gif)
 
 # Hi there, I'm Amir! 👋
 
